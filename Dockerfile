@@ -1,7 +1,3 @@
-export DOCKER_CLIENT_TIMEOUT=120
-export COMPOSE_HTTP_TIMEOUT=120
-
-
 FROM php:7.3-fpm
 RUN apt-get update -y && apt-get install -y libmcrypt-dev openssl git zip unzip nano npm
 RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
