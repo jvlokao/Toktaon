@@ -1,0 +1,26 @@
+version: '3.4'
+
+services:
+  db:
+    tty: true
+    image: mysql
+    container_name: db
+    command: --default-authentication-plugin=mysql_native_password
+    volumes:
+      - /var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: "toktaon123"
+      MYSQL_DATABASE: "toktaon"
+      MYSQL_PASSWORD: "8q2bsf05"
+      MYSQL_USER: "toktaon"
+  toktaon:
+    tty: true
+    depends_on:
+      - db
+    image: toktaon
+    container_name: toktaon
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - "80:8888"
