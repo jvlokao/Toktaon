@@ -52,7 +52,7 @@
                             <div class="menu-wrap">
                                 <nav class="menu-nav show">
                                     <div class="logo">
-                                        <a href="index.html">
+                                        <a href="#">
                                             <img src="{{ URL::to('img/logo/logo.png') }}" alt="Logo">
                                         </a>
                                     </div>
