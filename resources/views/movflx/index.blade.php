@@ -62,7 +62,7 @@
                                             <li><a href="#assistaagr">Assista Agora</a></li>
                                             <li><a href="#programas">Programas</a></li>
                                             <li><a href="#parceiros">Se Torne Parceiro</a></li>
-                                            <li><a href="/contato">Contatos</a></li>
+                                            <!--<li><a href="/contato">Contatos</a></li>-->
                                         </ul>
                                     </div>
                                 </nav>
@@ -140,9 +140,9 @@
                                     <div class="resolution">
                                         <h2>Redes Sociais</h2>
                                         <div style="display:flex; width: 95%; justify-content:space-around; margin-top:6px">
-                                            <a href="#"><span style="color:black;" class="fab fa-instagram fa-5x"></span></a>
-                                            <a href="#"><span style="color:black;" class="fab fa-facebook-square fa-5x"></span></a>
-                                            <a href="#"><span style="color:black;" class="fab fa-youtube fa-5x"></span></a>
+                                            <a href="https://www.instagram.com/tokonline.webtv/"><span style="color:black;" class="fab fa-instagram fa-5x"></span></a>
+                                            <a href="https://www.facebook.com/tokon.line.WEBTV"><span style="color:black;" class="fab fa-facebook-square fa-5x"></span></a>
+                                            <a href="https://www.youtube.com/channel/UC-vakvP3A-suRr6EIli8PAg"><span style="color:black;" class="fab fa-youtube fa-5x"></span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -276,7 +276,7 @@
                                             <li><a href="#assistaagr">Assista Agora</a></li>
                                             <li><a href="#programas">Programas</a></li>
                                             <li><a href="#parceiros">Se Torne Parceiro</a></li>
-                                            <li><a href="/contato">Contatos</a></li>
+                                            <!--<li><a href="/contato">Contatos</a></li>-->
                                         </ul>
                                     </nav>
                                 </div>
@@ -290,9 +290,9 @@
                             <div class="col-md-5">
                                 <div class="footer-social">
                                     <ul>
-                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+                                        <li><a href="https://www.facebook.com/tokon.line.WEBTV"><i class="fab fa-facebook-f"></i></a></li>
+                                        <li><a href="https://www.instagram.com/tokonline.webtv/"><i class="fab fa-instagram"></i></a></li>
+                                        <li><a href="https://www.youtube.com/channel/UC-vakvP3A-suRr6EIli8PAg"><i class="fab fa-youtube"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
