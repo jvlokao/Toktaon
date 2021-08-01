@@ -337,9 +337,7 @@
         <script src= "https://player.twitch.tv/js/embed/v1.js"></script>
         <script type="text/javascript">
             new Twitch.Player("twitch-embed", {
-                channel: "tokonline",
-                width: "782",
-                height: "521"
+                channel: "tokonline"
             });
         </script>
 
