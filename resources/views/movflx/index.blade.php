@@ -339,7 +339,7 @@
             new Twitch.Player("twitch-embed", {
                 channel: "tokonline",
                 width: "100%",
-                height: "100%"
+                height: "500"
             });
         </script>
 
