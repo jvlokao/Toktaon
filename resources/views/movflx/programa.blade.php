@@ -220,9 +220,10 @@
                             <div class="col-md-5">
                                 <div class="footer-social">
                                     <ul>
-                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+                                        <<li><a href="https://www.facebook.com/tokon.line.WEBTV"><i class="fab fa-facebook-f"></i></a></li>
+                                        <li><a href="https://www.instagram.com/tokonline.webtv/"><i class="fab fa-instagram"></i></a></li>
+                                        <li><a href="https://www.youtube.com/channel/UC-vakvP3A-suRr6EIli8PAg"><i class="fab fa-youtube"></i></a></li>
+                                        <li><a href="https://wa.me/5522981512501"><i class="fab fa-whatsapp"></i></a></li>
                                     </ul>
                                 </div>
                             </div>

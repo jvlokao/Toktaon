@@ -32,7 +32,7 @@ class HomeController extends Controller
     {
 
         $programa = Programa::find($id);
-        $episodios = Episodio::where('id_programa',$id)->orderBy("data_lançamento")->get();
+        $episodios = Episodio::where('id_programa',$id)->orderBy("data_lançamento","desc")->get();
 
         if (is_null($programa)) {
 			return redirect()

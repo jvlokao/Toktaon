@@ -126,7 +126,7 @@
             <!-- banner-area-end -->
 
             <!-- live-area -->
-            <section id="assistaagr" class="live-area live-bg fix" data-background="{{ URL::to('img/bg/live_bg.jpg') }}">
+            <section class="live-area live-bg fix" data-background="{{ URL::to('img/bg/live_bg.jpg') }}">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-xl-5 col-lg-6">
@@ -140,15 +140,16 @@
                                     <div class="resolution">
                                         <h2>Redes Sociais</h2>
                                         <div style="display:flex; width: 95%; justify-content:space-around; margin-top:6px">
-                                            <a href="https://www.instagram.com/tokonline.webtv/"><span style="color:black;" class="fab fa-instagram fa-5x"></span></a>
-                                            <a href="https://www.facebook.com/tokon.line.WEBTV"><span style="color:black;" class="fab fa-facebook-square fa-5x"></span></a>
-                                            <a href="https://www.youtube.com/channel/UC-vakvP3A-suRr6EIli8PAg"><span style="color:black;" class="fab fa-youtube fa-5x"></span></a>
+                                            <a href="https://www.instagram.com/tokonline.webtv/"><span style="color:black;" class="fab fa-instagram fa-4x"></span></a>
+                                            <a href="https://www.facebook.com/tokon.line.WEBTV"><span style="color:black;" class="fab fa-facebook-square fa-4x"></span></a>
+                                            <a href="https://www.youtube.com/channel/UC-vakvP3A-suRr6EIli8PAg"><span style="color:black;" class="fab fa-youtube fa-4x"></span></a>
+                                            <a href="https://wa.me/5522981512501"><span style="color:black;" class="fab fa-whatsapp-square fa-4x"></span></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-7 col-lg-6">
+                        <div id="assistaagr" class="col-xl-7 col-lg-6">
                             <div class="live-movie-img wow fadeInRight" data-wow-delay=".2s" data-wow-duration="1.8s">
                             <div id="twitch-embed"></div>
                             </div>
@@ -167,6 +168,7 @@
                             <div class="section-title text-center text-lg-left">
                                 <span class="sub-title">STREAMING ONLINE</span>
                                 <h2 class="title">Filmes, Documentários, Variedades e muito mais</h2>
+                                <p class="arraste sub-title">Arraste para os lados e vejas nossas playlists</p>
                             </div>
                         </div>
                         <div class="col-lg-6">
@@ -293,6 +295,7 @@
                                         <li><a href="https://www.facebook.com/tokon.line.WEBTV"><i class="fab fa-facebook-f"></i></a></li>
                                         <li><a href="https://www.instagram.com/tokonline.webtv/"><i class="fab fa-instagram"></i></a></li>
                                         <li><a href="https://www.youtube.com/channel/UC-vakvP3A-suRr6EIli8PAg"><i class="fab fa-youtube"></i></a></li>
+                                        <li><a href="https://wa.me/5522981512501"><i class="fab fa-whatsapp"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
