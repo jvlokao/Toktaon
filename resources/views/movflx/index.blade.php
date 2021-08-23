@@ -217,7 +217,7 @@
                         <div class="col-lg-6">
                             <div class="services-img-wrap">
                                 <img src="{{ URL::to('img/images/services_img.jpg') }}" alt="">
-                                <a href="" class="download-btn" download>Baixe Aqui <img src="{{ URL::to('fonts/download.svg') }}" alt=""></a>
+                                <a href="{{ URL::to('SejaParceiro.pdf') }}" class="download-btn" download>Baixe Aqui <img src="{{ URL::to('fonts/download.svg') }}" alt=""></a>
                             </div>
                         </div>
                         <div class="col-lg-6">
