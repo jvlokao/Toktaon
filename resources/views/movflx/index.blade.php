@@ -169,7 +169,7 @@
                             <div class="section-title text-center text-lg-left">
                                 <span class="sub-title">STREAMING ONLINE</span>
                                 <h2 class="title">Filmes, Documentários, Variedades e muito mais</h2>
-                                <p class="arraste sub-title">Arraste para os lados e vejas nossas playlists</p>
+                                <p class="arraste sub-title" style="margin-top:8px"><span style="font-size:20px"><</span> Arraste lateralmente e veja as playlists <span style="font-size:20px">></span></p>
                             </div>
                         </div>
                         <div class="col-lg-6">
